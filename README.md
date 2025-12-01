@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dan 👋  
 
-<!--
-**RhythmcoreDan/RhythmcoreDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modular algorithmic trading systems in Python — focusing on clean architecture, emotional/behavioral market modeling, regime detection, and automated execution.
 
-Here are some ideas to get you started:
+### 🔧 What I Work On
+- Real-time data ingestion  
+- Custom indicators (EMO Index, Regime Map, composites)  
+- Execution engines and API integration  
+- Backtesting + forward testing  
+- Automated monitoring and alert pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Featured Projects
+- **[rhythmcore-demo-bot](https://github.com/RhythmcoreDan/rhythmcore-demo-bot)** — bot architecture demo  
+- **[emo-index-demo](https://github.com/RhythmcoreDan/emo-index-demo)** — emotional-behavior indicator demo  
+
+Always building. Always improving.
