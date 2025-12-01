@@ -1,57 +1,62 @@
 # Hi, I'm Dan 👋  
 **Python Algo Engineer | System Architect | Creator of RhythmCore**
 
-I build modular algorithmic trading systems with clean, testable Python architecture.  
-Everything I create is structured as independent components — signals, indicators, regimes, and execution — designed to plug together into full trading pipelines.
+I build full-stack algorithmic trading systems using clean, modular, testable Python architecture.  
+Each component is designed as an independent piece of a larger engine — indicators, regimes, signals, execution, and backtesting — all working together.
 
 ---
 
 ## 🧠 What I Build
 - **Custom Indicators**  
-  Behavioral/emotional models, volatility tools, wick analysis, trend composites.
+  Emotional/behavioral engines, volatility tools, wick/trend composites.
+  
+- **Market Regime Models**  
+  Trend detection, chop classification, volatility regimes, state mapping.
 
-- **Market Regime Engines**  
-  Trend vs chop detection, volatility states, state classification maps.
+- **Strategy & Signal Logic**  
+  Structured signal pipelines and decision layers.
 
-- **Execution Systems**  
-  Position management, PnL accounting, equity tracking, order logic.
+- **Execution Engines**  
+  Position tracking, trade accounting, PnL and equity curve generation.
 
-- **Strategy & Bot Architecture**  
-  Signal generation, backtesting structure, processing pipelines.
-
----
-
-## 🔧 Core Demo Modules  
-These repos demonstrate the modular building blocks of a complete trading system:
-
-### 🌐 **1. [rhythmcore-demo-bot](https://github.com/RhythmcoreDan/rhythmcore-demo-bot)**  
-Strategy structure, signals, backtesting loop, and clean architecture.
-
-### 🔥 **2. [emo-index-demo](https://github.com/RhythmcoreDan/emo-index-demo)**  
-Emotional/behavioral indicator using volatility, wicks, and composite scoring.
-
-### 📊 **3. [regime-map-demo](https://github.com/RhythmcoreDan/regime-map-demo)**  
-Market regime classification (trend/chop + volatility levels).
-
-### ⚙️ **4. [execution-engine-demo](https://github.com/RhythmcoreDan/execution-engine-demo)**  
-Position tracking, realized/unrealized PnL, and running equity.
+- **Backtesting Systems**  
+  Performance metrics, drawdowns, trade stats, simulation loops.
 
 ---
 
-## 🚀 Philosophy  
-I build trading systems the same way you’d build industrial machines:
+## 🔧 Modular System Demos (Core Repos)
+
+### 1. **[rhythmcore-demo-bot](https://github.com/RhythmcoreDan/rhythmcore-demo-bot)**  
+Signal engine + strategy logic + backtesting loop.
+
+### 2. **[emo-index-demo](https://github.com/RhythmcoreDan/emo-index-demo)**  
+Emotional/behavior indicator (volatility, wick ratio, composites).
+
+### 3. **[regime-map-demo](https://github.com/RhythmcoreDan/regime-map-demo)**  
+Market regime classifier (trend vs chop, high vs low volatility).
+
+### 4. **[execution-engine-demo](https://github.com/RhythmcoreDan/execution-engine-demo)**  
+Position engine with realized/unrealized PnL and equity tracking.
+
+### 5. **[backtester-demo](https://github.com/RhythmcoreDan/backtester-demo)**  
+Backtesting engine with equity curves and performance statistics.
+
+---
+
+## ⚙️ My Engineering Philosophy  
+Build systems like machines:
 
 - Modular  
-- Testable  
-- Consistent  
+- Predictable  
 - Maintainable  
 - Extensible  
+- Testable  
 
-Small components → Large systems.  
-Clear logic → Scalable structure.
+**Small components → Large systems.  
+Clear logic → Scalable architecture.**
 
 ---
 
 ## 📬 Contact  
-Open to collaboration on indicators, bots, custom engines, and system architecture.  
+Open to consulting, custom indicators, bot development, and system architecture work.  
 Always building. Always refining.
